@@ -6,4 +6,4 @@
   u need a valid username:password in order to work
 </pre>
 <br>
-<img src="https://imgur.com/hETzNQR">
+<img src="https://i.imgur.com/hETzNQR.png">
